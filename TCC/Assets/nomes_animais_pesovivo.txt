@@ -1,0 +1,73 @@
+Animal
+amarelo
+vermelho
+azul
+branco
+rosa
+verde
+preto
+sem fita
+baia 5
+LARANJA
+BRANCO
+AMARELO
+ROXO
+ROXO+AMARELO
+AZUL
+VERMELHO
+VERMELHO+AZUL
+ANIMAL GRANDE SEM COR
+VERMELHO
+BRANCO
+AMARELO
+VERDE
+AZUL
+PRETO
+ROXO
+Animal 1
+Animal 2
+Animal 3
+Animal 4
+Animal 5
+Animal 6
+Animal 7
+Animal 8
+Animal 9
+Animal 10
+Animal 11
+Animal 12
+Animal 13
+Animal 14
+Animal 15
+Animal 16
+Animal 17
+Animal 18
+Animal 19
+Animal 20
+Animal 21
+Animal 22
+Animal 23
+Animal 24
+Animal 25
+Animal 26
+Animal 27
+Animal 28
+Animal 29
+Animal 30
+Animal 31
+Animal 45
+Animal 46
+Animal 47
+Animal 48
+Animal 49
+Animal 50
+Animal 51
+Animal 52
+Animal 53
+Animal 54
+Animal 55
+Animal 56
+Animal 57
+Animal 58
+Animal 59
+Animal 60
